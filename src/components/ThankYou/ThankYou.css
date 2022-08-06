@@ -1,0 +1,23 @@
+.thankYou__image-div{
+    width: 51%;
+    margin: 5px auto;
+}
+
+.thankYou__selected{
+    width: 65%;
+    margin: 20px auto;
+    padding: 8px 0px;
+    text-align: center;
+    background-color: var(--Grey);
+    color: var(--Orange);
+    border-radius: 20px;
+    font-size: inherit;
+}
+
+.thankYou__title, .thankYou__appreciate{
+    text-align: center;
+}
+
+.thankYou__appreciate{
+    line-height: 1.6;
+}
