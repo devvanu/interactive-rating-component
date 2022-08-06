@@ -1,0 +1,15 @@
+.app{
+    width: 380px;
+    background-color: var(--Dark-Blue);
+    padding: 30px;
+    border-radius: 25px;
+}
+
+h1, h2{
+    font-weight: 700;
+    color: var(--White);
+    margin-bottom: 10px;
+}
+p{
+    color: var(--Light-Grey);
+}
