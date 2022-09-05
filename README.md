@@ -1,8 +1,7 @@
 # Frontend Mentor - Interactive rating component solution
 
-<img src="https://user-images.githubusercontent.com/93486013/183262378-adf06550-e9f0-4624-b064-c1b5ec880fcc.jpg" alt="desktop-design" width="600" />
-
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI).
+### # Preview: 
+[![Interactive Rating Component]](https://user-images.githubusercontent.com/93486013/188470632-64f092ed-ff91-406f-b053-eab970cce3ad.mp4)
 
 ### #1 The challenge
 
